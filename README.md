@@ -32,7 +32,13 @@ Sou **Bacharel em Sistemas de Informação (Unidavi)**, com TCC aprovado e publi
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MicaelMunsfeld&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelMunsfeld&layout=compact&theme=dracula&langs_count=6" alt="Linguagens mais usadas" height="180px"/>
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MicaelMunsfeld&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelMunsfeld&layout=compact&theme=dracula&langs_count=6" alt="Linguagens mais usadas" height="180px"/>
+    </td>
+  </tr>
+</table>
