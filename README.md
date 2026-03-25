@@ -27,8 +27,8 @@ Sou **Bacharel em Sistemas de Informação (Unidavi)**, com TCC aprovado e publi
 
 ### 📫 Como me encontrar:
 
-* 💼 **LinkedIn:** [linkedin.com/in/munsfeld](https://linkedin.com/in/munsfeld) **
-* 📧 **E-mail:** mmunsfeld@gmail.com **
+* 💼 **LinkedIn:** [linkedin.com/in/munsfeld](https://linkedin.com/in/munsfeld)
+* 📧 **E-mail:** mmunsfeld@gmail.com
 
 ---
 
