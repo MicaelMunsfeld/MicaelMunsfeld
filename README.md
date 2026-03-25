@@ -1,6 +1,8 @@
 # Olá, eu sou o Micael Munsfeld! 👋
 
-Desenvolvedor Full Stack com experiência em PHP, Banco de Dados e Engenharia de Software. Sou graduado em Sistemas de Informação (com TCC publicado em artigo científico) e focado em resolver problemas reais de negócio através do código limpo e arquitetura escalável.
+Desenvolvedor Full Stack com **4+ anos de experiência** focados em desenvolvimento web (PHP), Engenharia de Software e Banco de Dados. Atuo no mercado de tecnologia desde 2021, tendo iniciado minha jornada com arquitetura de sites e marketing digital, evoluindo para a construção de aplicações web no ecossistema do PHP.
+
+Sou **Bacharel em Sistemas de Informação (Unidavi)**, com TCC aprovado e publicado como artigo científico focado na gestão de negócios reais.
 
 ---
 
