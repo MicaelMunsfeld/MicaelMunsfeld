@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou o Micael Munsfeld! 👋
 
-<!--
-**MicaelMunsfeld/MicaelMunsfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack com experiência em PHP, Banco de Dados e Engenharia de Software. Sou graduado em Sistemas de Informação (com TCC publicado em artigo científico) e focado em resolver problemas reais de negócio através do código limpo e arquitetura escalável.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ecossistema
+
+* **Linguagens:** PHP, JavaScript (Vanilla/ES6), algumas experiências com Python e Pascal (Delphi).
+* **Frameworks & Libs:** Laravel, Node.js.
+* **Bancos de Dados:** PostgreSQL, MySQL, MariaDB.
+* **Arquitetura & Padrões:** MVC, POO (Orientação a Objetos), POE (Eventos), Programação Funcional, Engenharia de Dados (OLAP).
+* **Ferramentas:** Git, GitHub, Docker, Composer.
+
+---
+
+### 📚 Destaques Acadêmicos e Profissionais
+
+* **TCC Publicado (Unidavi):** Desenvolvi o protótipo *MCC* para gestão de concessionárias de veículos com integração dinâmica via API da Tabela FIPE.
+* **Sistemas Reais:** Foco em desenvolvimento de ERPs internos, automação de processos comerciais e regras de negócio complexas.
+
+---
+
+### 📫 Como me encontrar:
+
+* 💼 **LinkedIn:** [linkedin.com/in/munsfeld](https://linkedin.com/in/munsfeld) **
+* 📧 **E-mail:** mmunsfeld@gmail.com **
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MicaelMunsfeld&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelMunsfeld&layout=compact&theme=dracula&langs_count=6" alt="Linguagens mais usadas" height="150px"/>
+</p>
