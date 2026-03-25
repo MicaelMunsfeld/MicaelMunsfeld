@@ -8,6 +8,7 @@ Desenvolvedor Full Stack com experiência em PHP, Banco de Dados e Engenharia de
 
 * **Linguagens:** PHP, JavaScript (Vanilla/ES6), algumas experiências com Python e Pascal (Delphi).
 * **Frameworks & Libs:** Laravel, Node.js.
+* **Nuvem & DevOps:** Docker (Containerização), Amazon AWS (EC2, S3, RDS), Git/GitHub.
 * **Bancos de Dados:** PostgreSQL, MySQL, MariaDB.
 * **Arquitetura & Padrões:** MVC, POO (Orientação a Objetos), POE (Eventos), Programação Funcional, Engenharia de Dados (OLAP).
 * **Ferramentas:** Git, GitHub, Docker, Composer.
