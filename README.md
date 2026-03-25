@@ -17,8 +17,8 @@ Desenvolvedor Full Stack com experiência em PHP, Banco de Dados e Engenharia de
 ### 📚 Destaques Acadêmicos e Profissionais
 
 * **🎓 Bacharel em Sistemas de Informação (Unidavi):** Formação superior completa (2021 - 2024).
-* **TCC Publicado (Unidavi):** Desenvolvi o protótipo *MCC* para gestão de concessionárias de veículos com integração dinâmica via API da Tabela FIPE.
-* **Sistemas Reais:** Foco em desenvolvimento de ERPs internos, automação de processos comerciais e regras de negócio complexas.
+* **📄 TCC Publicado (Unidavi):** Desenvolvi o protótipo *MCC* para gestão de concessionárias de veículos com integração dinâmica via API da Tabela FIPE (Trabalho Catalogado).
+* **⚙️ Sistemas Reais:** Foco em desenvolvimento de ERPs internos, automação de processos comerciais e regras de negócio complexas no dia a dia.
 
 ---
 
